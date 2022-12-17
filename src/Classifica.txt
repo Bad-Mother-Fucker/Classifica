@@ -1,0 +1,10 @@
+Napoli	35	6	24	18
+Inter	32	3	27	24
+Roma	30	14	36	22
+Milan	30	3	24	21
+Juventus	24	-7	23	30
+Torino	23	-5	27	32
+Lazio	22	5	25	20
+Salernitana	22	0	27	27
+Atalanta	20	-10	26	36
+Bari	16	-9	27	36
